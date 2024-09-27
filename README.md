@@ -1,1 +1,1 @@
-ceci est un fichier markdown
+ceci est un fichier markdown modifié par le 2ème membre
